@@ -22,4 +22,5 @@ Route::middleware('auth')->group(function () {
     Route::delete('/destroy/{id}', [ElectricityController::class, 'destroy'])->name('destroy');
 });
 
+
 require __DIR__.'/auth.php';

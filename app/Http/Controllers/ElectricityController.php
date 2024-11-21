@@ -10,7 +10,7 @@ class ElectricityController extends Controller
     public function index()
     {
         $data = Customer::with('usabilities')->get();
-        return view('index', compact('data'));
+        return view('biling.index', compact('data'));
     }
 
     public function store(Request $request)
