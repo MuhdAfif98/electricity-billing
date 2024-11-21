@@ -24,8 +24,8 @@ Follow these steps to set up the project on your local machine:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/MuhdAfif98/electricity-billing.git
+cd electricity-billing
 ```
 
 ### 2. Install PHP dependencies
