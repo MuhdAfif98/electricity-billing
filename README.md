@@ -3,6 +3,11 @@
 ## Introduction
 This project is a second test skill
 
+Login information
+
+Email : test@example.com
+Password : password
+
 ---
 
 ## Requirements
